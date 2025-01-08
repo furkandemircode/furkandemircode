@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkandemircode&show_icons=true&locale=en" alt="furkandemircode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkandemircode&" alt="furkandemircode" /></p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65c63c83-0532-4599-aea1-f9ae53b91392" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
